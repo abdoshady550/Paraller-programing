@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668205392 source:d:\cs\4\paraller programing\sec\task\main.c
+	<mpi.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
